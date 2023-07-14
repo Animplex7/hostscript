@@ -1,4 +1,4 @@
-<script type='text/javascript'>//<![CDATA[
+//<![CDATA[
 function timeAgo(_0x33d3x2) {
     var _0x33d3x3 = (new Date).getTime() - _0x33d3x2.getTime(),
         _0x33d3x4 = Math.floor(_0x33d3x3 / 1e3),
@@ -1024,4 +1024,3 @@ var bxcld = {
         noImage: 'https://1.bp.blogspot.com/-BYDJ1dpFEhE/X9QnAUfeORI/AAAAAAAAHxw/OjfaqiPHjhAmCgJts39XIg7o4KR-8YtdACNcBGAsYHQ/w300-h225-p-k-no-nu/dagruel-no-image.png'
     }
 //]]>
-  </script>
