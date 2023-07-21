@@ -1005,7 +1005,7 @@ var bxcld = {
                     _0x33d3x8 = function () {
                         var _0x33d3x3 = _0x33d3x4;
                         _0x33d3x6.find('.nav-tabs').append("<li><span data-id='hari-" + _0x33d3x3 + "'>" + _0x33d3x4 + '</span></li>'), _0x33d3x6.find('.listjdl').append('<div id="hari-' + _0x33d3x3 + '" class="customJdl"><h2>' + _0x33d3x4 + '</h2><div class="innerjdl"></div></div>'), _0x33d3x2.each(jdl.obj[_0x33d3x4], function () {
-                            var _0x33d3x2 = "<span class='cd'>at " + this.time + '</span>';
+                            var _0x33d3x2 = "<span class='cd'>Jam " + this.time + '</span>';
                             _0x33d3x6.find('#hari-' + _0x33d3x3 + ' .innerjdl').append('<article class="jdlitem"><a href="' + this.link + '" title="' + this.title + '"><div class="images"><figure><img src="' + this.image + '" alt="' + this.title + '"></figure><div class="rd"></div><div class="br">' + _0x33d3x2 + this.episode + '</div></div><h3 class="entry-title">' + this.title + '</h3></a></article>')
                         })
                     };
