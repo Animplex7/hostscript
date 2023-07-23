@@ -7,7 +7,7 @@ function timeAgo(_0x33d3x2) {
         _0x33d3x7 = Math.floor(_0x33d3x6 / 24),
         _0x33d3x8 = Math.floor(_0x33d3x7 / 30),
         _0x33d3x9 = Math.floor(_0x33d3x8 / 12);
-    return 0 === _0x33d3x3 ? 'Just now' : _0x33d3x4 < 60 ? _0x33d3x4 + ' detik lalu' : _0x33d3x5 < 60 ? _0x33d3x5 + ' menit lalu' : _0x33d3x6 < 24 ? _0x33d3x6 + ' jam lalu' : _0x33d3x7 < 30 ? _0x33d3x7 + ' hari lalu' : _0x33d3x8 < 12 ? _0x33d3x8 + ' bulan lalu' : _0x33d3x9 + ' tahun lalu'
+    return 0 === _0x33d3x3 ? 'baru saja' : _0x33d3x4 < 60 ? _0x33d3x4 + ' detik lalu' : _0x33d3x5 < 60 ? _0x33d3x5 + ' menit lalu' : _0x33d3x6 < 24 ? _0x33d3x6 + ' jam lalu' : _0x33d3x7 < 30 ? _0x33d3x7 + ' hari lalu' : _0x33d3x8 < 12 ? _0x33d3x8 + ' bulan lalu' : _0x33d3x9 + ' tahun lalu'
 }
 
 function getRandomInt(_0x33d3x2, _0x33d3x3) {
